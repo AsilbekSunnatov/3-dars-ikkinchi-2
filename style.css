@@ -1,0 +1,21 @@
+body{
+    background-color: indianred;
+}
+.pricing{
+    text-align: center;
+}
+
+.list{
+    list-style: none;
+}
+.free{
+    text-align: center;
+    border: 1px solid indianred;
+    background-color: tomato;
+}
+.list{
+    background-color: white;
+}
+.lorem{
+    text-align: center;
+}
